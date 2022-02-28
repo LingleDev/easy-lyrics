@@ -20,13 +20,13 @@ var lyrics = new Lyrics("optional-genius-api-key") // if no key is provided, the
 	console.log(results)
 
 	/*
-		{
+	{
 		title: 'Blinding Lights',
 		artist: 'The Weeknd',
 		thumbnail: 'https://images.genius.com/0b32bf010a7361676426365480c5cce8.300x300x1.jpg',
 		url: 'https://genius.com/The-weeknd-blinding-lights-lyrics',
 		lyrics: "..."
-		}
+	}
 	*/
 
 })()
