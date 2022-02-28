@@ -1,0 +1,18 @@
+{
+  "name": "easy-lyrics",
+  "version": "1.0.1",
+  "description": "Fetches lyrics from the Genius Lyrics API",
+  "main": "./src/index",
+  "dependencies": {
+    "genius-lyrics": "^4.3.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lyrics",
+    "genius"
+  ],
+  "author": "LingleDev",
+  "license": "ISC"
+}
